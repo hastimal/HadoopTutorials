@@ -6,7 +6,7 @@ package com.bigdata.hadoop;
 /**
  * @author hastimal
  *
- * Created by hastimal jangid @ Mar 9, 2016 
+ * Created by hastimal jangid @ May 19, 2015 
  * WordCount.java
  */
 public class WordCount {
